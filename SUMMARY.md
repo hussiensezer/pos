@@ -4,8 +4,8 @@
 * [Home](docs/en/home.md)
 
 * **Inventory**
-  * [Categories of items](docs/en/inventory/categories-items.md)
-  * [Categories of products](docs/en/inventory/categories-products.md)
+  * [Raw Material Categories](docs/en/inventory/categories-items.md)
+  * [Product Categories](docs/en/inventory/categories-products.md)
   * [Raw materials](docs/en/inventory/raw-materials.md)
   * [Products](docs/en/inventory/products.md)
   * [Withdraw & add](docs/en/inventory/transactions.md)
