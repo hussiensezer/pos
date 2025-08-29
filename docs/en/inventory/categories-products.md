@@ -32,11 +32,7 @@ At the top there is:
 - Factories, central kitchens, workshops…  
 - Here you need product categories to manage the final products you produce.
 
-### ❌ Case 3: Production Activity Only (No Final Products)
-- Raw material factories, mines…  
-- In this case, **you don't need product categories** because you're not selling final products.
-
----
+git---
 
 ## 🧱 Understanding Levels
 
